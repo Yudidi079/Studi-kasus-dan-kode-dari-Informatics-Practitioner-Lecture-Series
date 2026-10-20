@@ -1,1 +1,3 @@
-# Studi-kasus-dan-kode-dari-Informatics-Practitioner-Lecture-Series
+# Studi kassus dan kode dari setiap materi yang telah dijelasskan dalam Informatics Practitioner Lecture Series
+## Nama: Yudhistira Rizky Ramadhan
+## NPM : G1A024079
